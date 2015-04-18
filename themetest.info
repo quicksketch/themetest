@@ -1,0 +1,4 @@
+name = Test theme
+description = A theme for testing GitHub webhooks.
+backdrop = 1.x
+type = theme
